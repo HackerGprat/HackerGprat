@@ -13,5 +13,4 @@ UnderConstruction
 
 
 #### FootPrint?
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://instagram.com/HackerGprat)
-[![Website](https://img.shields.io/badge/-WEBSITE-0077B5?style=for-the-badge&logo=jekyll&logoColor=white)](https://HackerGprat.github.io)
+[![Website](https://img.shields.io/badge/-WEBSITE-3d424a?style=for-the-badge&logo=jekyll&logoColor=green)](https://HackerGprat.github.io)
